@@ -1,0 +1,42 @@
+{
+    "entities": [
+      {
+        "x": 1,
+        "y": 0,
+        "type": "mercenary"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "type": "sword"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "type": "zombie_toast_spawner"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "type": "sword"
+      },
+      {
+        "x": 1,
+        "y": 4,
+        "type": "zombie_toast_spawner"
+      },
+      {
+        "x": 1,
+        "y": 5,
+        "type": "sword"
+      },
+      {
+        "x": 1,
+        "y": 6,
+        "type": "player"
+      }
+    ],
+    "goal-condition": {
+      "goal": "enemies"
+    }
+}

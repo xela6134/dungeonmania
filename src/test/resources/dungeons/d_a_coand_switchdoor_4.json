@@ -1,0 +1,123 @@
+{
+    "entities": [
+      {
+        "x": 3,
+        "y": 0,
+        "type": "wire"
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "type": "wire"
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "type": "wire"
+      },
+      {
+        "x": 6,
+        "y": 0,
+        "type": "wire"
+      },
+      {
+        "x": 7,
+        "y": 0,
+        "type": "wire"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "type": "wire"
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "type": "wire"
+      },
+      {
+        "x": 7,
+        "y": 1,
+        "type": "wire"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "type": "wire"
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "type": "wire"
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "type": "switch_door",
+        "logic": "co_and"
+      },
+      {
+        "x": 6,
+        "y": 2,
+        "type": "wire"
+      },
+      {
+        "x": 7,
+        "y": 2,
+        "type": "wire"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "type": "wire"
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "type": "wire"
+      },
+      {
+        "x": 7,
+        "y": 3,
+        "type": "wire"
+      },
+      {
+        "x": 3,
+        "y": 4,
+        "type": "switch"
+      },
+      {
+        "x": 4,
+        "y": 4,
+        "type": "wire"
+      },
+      {
+        "x": 5,
+        "y": 4,
+        "type": "wire"
+      },
+      {
+        "x": 6,
+        "y": 4,
+        "type": "wire"
+      },
+      {
+        "x": 7,
+        "y": 4,
+        "type": "wire"
+      },
+      {
+        "x": 3,
+        "y": 5,
+        "type": "boulder"
+      },
+      {
+        "x": 3,
+        "y": 6,
+        "type": "player"
+      }
+    ],
+    "goal-condition": {
+      "goal": "exit"
+    }
+  }
